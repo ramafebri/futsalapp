@@ -13,9 +13,9 @@ Fitur yang tersedia:
 6. Profile <br/>
 7. Edit Profile <br/>
 
-![Image of Eworkpalce](/ss/Screenshot_1.png)>![Image of Eworkpalce](/image/Screenshot_2.png)
-![Image of Eworkpalce](/image/Screenshot_3.png)>![Image of Eworkpalce](/image/Screenshot_4.png)
-![Image of Eworkpalce](/image/Screenshot_5.png) <br/>
+![Image of Futsalapp](/ss/Screenshot_1.png)>![Image of Futsalapp](/ss/Screenshot_2.png)
+![Image of Futsalapp](/ss/Screenshot_3.png)>![Image of Futsalapp](/ss/Screenshot_4.png)
+![Image of Futsalapp](/ss/Screenshot_5.png) <br/>
 
 ## Getting Started
 ### Installation process
