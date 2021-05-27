@@ -4,6 +4,8 @@
 ## Introduction
 Dibuat untuk kebutuhan Tugas Akhir (Skripsi)
 
+Arsitektur: Container and Presentational Pattern <br/>
+
 Fitur yang tersedia:
 1. Login  <br/>
 2. Register <br/>
